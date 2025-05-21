@@ -2,4 +2,7 @@ title: Neko Theme
 description: ""
 encoding: utf-8
 
+
+enable_dark_theme: true
+
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
